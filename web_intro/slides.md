@@ -12,7 +12,9 @@
 # The Web
 * Series of Tubes
 
-# Stuff you have installed
+!SLIDE
+# Stuff people have installed
+## http://installfest.heroku.com
 * RVM
 * git
 
