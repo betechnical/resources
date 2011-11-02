@@ -17,11 +17,16 @@
 ## http://installfest.heroku.com
 * RVM
 * git
+* chrome
 
 !SLIDE
 # Browser
 * Make requests
 * Render responses
+
+!SLIDE
+# first request
+Open network tab before going to urbanposse
 
 !SLIDE
 #HTML
@@ -43,8 +48,9 @@
 !SLIDE
 
 #HTTP
+## Language to talk to server
 * URL
-* Verb (GET for now)
+* Click around urbanposse, URL changes
 
 !SLIDE
 #Web Server
@@ -57,7 +63,7 @@ Software that decides what HTML to return for a request.
 !SLIDE
 #Today
 
-We will build one.
+You will build one.
 
 !SLIDE
 # And Also
@@ -97,6 +103,8 @@ Put it on the internet.
 * she adds sinatra to it
 * she commits and pushes
 
+Version control: local copy
+
 !SLIDE
 # Our second volunteer
 * we add her to the repo
@@ -111,6 +119,7 @@ Put it on the internet.
 * she clones it
 * we add her to the Heroku application
 * she adds heroku to the gemfile
+* rackup file
 * she pushes the application to github and heroku
 * we visit it
 
@@ -142,6 +151,7 @@ end
 * we add her to the repo
 * we add her to the Heroku application
 * she clones it
+* She makes a suggestion on github
 * she adds code that responds based on a parameter
 * she pushes the application to github and heroku
 * we visit it
@@ -172,6 +182,9 @@ Create a Tracker project and start brainstorming stories into it
 !SLIDE
 # Github
 Make a new repo for the new project
+
+!SLIDE
+# Secret Sauce Goes Here
 
 !SLIDE
 # Done for the day
