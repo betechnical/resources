@@ -133,7 +133,7 @@ http://app.heroku.com?name=bob
 
 ``` ruby
 get '/' do
-  "Hello, #{params[:name]}"
+  "Hello, " + params['name']
 end
 ```
 

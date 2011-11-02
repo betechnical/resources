@@ -238,7 +238,7 @@
           
           <p>http://app.heroku.com?name=bob</p>
           
-          <p><textarea class='code' display='none' mode='ruby'>get '/' do&#x000A;  "Hello, #{params[:name]}"&#x000A;end</textarea></p>
+          <p><textarea class='code' display='none' mode='ruby'>get '/' do&#x000A;  "Hello, " + params['name']&#x000A;end</textarea></p>
         </div>
       </section>
       <section class='slide'>
