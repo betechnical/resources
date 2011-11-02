@@ -137,6 +137,45 @@ get '/' do
 end
 ```
 
+!SLIDE
+# Our fifth volunteer
+* we add her to the repo
+* we add her to the Heroku application
+* she clones it
+* she adds code that responds based on a parameter
+* she pushes the application to github and heroku
+* we visit it
+
+!SLIDE
+# Our sixth volunteer
+* we add her to the repo
+* we add her to the Heroku application
+* she clones it
+* she adds code that renders HTML that can generate a parameter
+* she pushes the application to github and heroku
+* we visit it
+
+!SLIDE
+# Everyone gets a chance to change the repo
+
+!SLIDE
+# Whiteboard
+## People come with ideas
+* narrow down to 3 or so
+* talk about them all
+* choose one
+
+!SLIDE
+# Tracker
+Create a Tracker project and start brainstorming stories into it
+
+!SLIDE
+# Github
+Make a new repo for the new project
+
+!SLIDE
+# Done for the day
+
 !NOTES
 
  * Where do we go from here?
